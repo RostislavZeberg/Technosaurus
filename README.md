@@ -1,4 +1,4 @@
-# Интернет-магазина Technosaurus на Vue, VueX, Vue-Router, JavaScript с использованием REST API.
+# Интернет-магазина Technosaurus на Vue + JavaScript + Vue CLI.
 ### Пользователь может выполнить на сайте следующие действия: 
 + Посмотреть список товаров по страницам.
 + Отфильтровать список товаров по параметрам.
@@ -15,6 +15,7 @@
 + Корзина.
 + Оформление заказа.
 + Успешное оформление заказа.
+### Использовались: Vue Router, Vuex  Core-js, Webpack (через Vue CLI), Babel, ESLint.
 #### Для запуска в режиме dev команда npm run serve.
 #### Сборка - команда npm run build.
 #### Для просмотра результата перейдите по ссылке https://rostislavzeberg.github.io/Technosaurus/#/
